@@ -4,7 +4,7 @@ project:
   title:        mi_primer_chip      # Project title
   author:       gervasio    # Your name
   discord:      epicgerva      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  TEST      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     100000       # Clock frequency in Hz (or 0 if not applicable)
 
